@@ -1,0 +1,52 @@
+{
+  "venues": [
+    {
+      "id": "1",
+      "title": "Théâtre Granada",
+      "image": "veggie_carbonara.jpg",
+      "manager": "Rémi Verreault, directeur général",
+      "description": "819 565-5656, poste 229\nrverreault@theatregranada.com\nwww.theatregranada.com",
+      "member": false
+    },
+    {
+      "id": "2",
+      "title": "Centre d’Art de Richmond",
+      "image": "veg_stir_fry.jpg",
+      "manager": "Marie-Ève Bourdages",
+      "description": "819 826-2488\nmarieeve@centredartderichmond.ca\nwww.centredartderichmond.ca",
+      "member": true
+    },
+    {
+      "id": "3",
+      "title": "Le P’tit Bonheur de Saint-Camille",
+      "image": "veg_alfredo.jpg",
+      "manager": "Benoit Bourassa",
+      "description": "819 340-1993⠀⠀⠀⠀⠀\nculture@ptitbonheur.org⠀⠀⠀⠀⠀\nwww.ptitbonheur.org",
+      "member": false
+    },
+    {
+      "id": "4",
+      "title": "Pavillon des arts et de la culture de Coaticook",
+      "image": "mushroom_risotto.jpg",
+      "manager": "Daphnée Lebrun, Directrice générale",
+      "description": "819 849-6371⠀⠀⠀⠀⠀\ndirection@pavillondesarts.qc.ca⠀⠀⠀⠀⠀\nwww.pavillondesarts.qc.ca",
+      "member": false
+    },
+    {
+      "id": "5",
+      "title": "Comité culturel Mégantic",
+      "image": "veg_lentil_soup.jpg",
+      "manager": "Martine Beaudoin",
+      "description": "819 237-4154⠀⠀⠀⠀⠀\nmartine.beaudoin@comiteculturelmegantic.com⠀⠀⠀⠀⠀\nwww.comiteculturelmegantic.com",
+      "member": true
+    },
+    {
+      "id": "6",
+      "title": "La Petite Boîte Noire",
+      "image": "grilled_mushrooms.jpg",
+      "manager": "Philibert Bélanger",
+      "description": "819 555-1234⠀⠀⠀⠀⠀\nbooking@lapetiteboitenoire.com⠀⠀⠀⠀⠀\nwww.lapetiteboitenoire.com/",
+      "member": true
+    }
+  ]
+}

@@ -77,5 +77,5 @@
 
 header,
 main {
-  @apply max-w-6xl mx-auto my-12 bg-slate-500;
+  @apply max-w-7xl mx-auto my-12 /* bg-slate-500 */;
 }
